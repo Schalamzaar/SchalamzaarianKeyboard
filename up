@@ -32,13 +32,13 @@ xkb_symbols "basic" {
     key <AD11> {	[ acircumflex,	Acircumflex	]	};
     key <AD12> {	[ scaron,	Scaron	]	};
 
-    key <AC01> {	[	  a,	A 		]	};
+    key <AC01> {	[	  schwa,	SCHWA		]	};
     key <AC02> {	[	  s,	S		]	};
     key <AC03> {	[	  d,	D		]	};
-    key <AC04> {	[	  f,	F		]	};
+    key <AC04> {	[	  Cyrillic_ef,	Cyrillic_EF		]	};
     key <AC05> {	[	  g,	G		]	};
     key <AC06> {	[	  h,	H		]	};
-    key <AC07> {	[	  j,	J		]	};
+    key <AC07> {	[	  Cyrillic_je,	Cyrillic_JE		]	};
     key <AC08> {	[	  k,	K		]	};
     key <AC09> {	[	  l,	L		]	};
     key <AC10> {	[ semicolon,	colon		]	};
